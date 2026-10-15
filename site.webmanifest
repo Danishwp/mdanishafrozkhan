@@ -1,0 +1,14 @@
+{
+  "name": "Muhammad Danish Afroz Khan — WordPress & Shopify Developer",
+  "short_name": "MDAK",
+  "description": "WordPress & Shopify web design and development by Muhammad Danish Afroz Khan, based in Lahore, Pakistan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0512",
+  "theme_color": "#440286",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
